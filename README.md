@@ -24,7 +24,7 @@ Installing
 
 2) make
 
-by default, serial and multithreaded version of ESSLlapack will be build and linked to corresnpondent ESSL libraries).
+by default, serial and multithreaded version of ESSLlapack will be build and linked to corresnpondent ESSL libraries.
 
 Donate
 ------
