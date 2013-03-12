@@ -29,6 +29,5 @@ by default, serial and multithreaded version of ESSLlapack will be build (link t
 
 License terms
 -------------
-ESSLlapack is published under the terms of the GNU License, see the
-[LICENSE](LICENSE) file.
+ESSLlapack is dual-licensed, as explained in [LICENSE](LICENSE).
 
