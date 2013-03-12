@@ -10,7 +10,7 @@ At allows to compile codes which require LAPACK routines without any modificatio
 and make use of optimized ESSL routines at the same time.
 
 It works ONLY with shared ESSL and must be also compiled as shared library.
-When code is linked with this library, "-lESSLlapack" must ALWAYS be in front of "-lESSL"
+When code is linked with this library, "-lESSLlapack" must be *ALWAYS* in front of "-lESSL"
 in set of linker arguments.
 
 Brief idea behind this schema:
