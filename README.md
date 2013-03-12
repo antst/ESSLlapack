@@ -26,6 +26,9 @@ Installing
 
 by default, serial and multithreaded version of ESSLlapack will be build (link to corresnpondent ESSL libraries).
 
+Donate
+------
+<a href='http://www.pledgie.com/campaigns/19516'><img alt='Click here to lend your support to: ESSLlapack donation and make a donation at www.pledgie.com !' src='http://www.pledgie.com/campaigns/19516.png?skin_name=chrome' border='0' /></a>
 
 License terms
 -------------
